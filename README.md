@@ -8,4 +8,5 @@ Simple Linux Grep program implementation in c
 -w
 
 -c
+# Usage: ./grep [Options] [file]
 # Program was made for personal use so it may contain bugs
